@@ -1,4 +1,4 @@
-### https://github.com/SamoAnn/rsschool-cv.git
+### https://SamoAnn.github.io/rsschool-cv/cv
 #### KACHAN HANNA
 # Contacts
 * Phone +375297766617
